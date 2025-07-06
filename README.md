@@ -19,4 +19,6 @@ This capstone project simulates **real-time adaptive pricing** for smart parking
 
 ## 📐 Architecture Diagram
 
-> Generated using Mermaid live editor: [Mermaid Live](http)
+> Generated using Mermaid live editor:
+> <img width="352" alt="Screenshot 2025-07-06 at 13 18 54" src="https://github.com/user-attachments/assets/44a10287-d961-4060-af18-ccd92a3a5971" />
+
